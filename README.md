@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning Spring
 
 
-![My Skills](https://skillicons.dev/icons?i=idea,java,spring,bootstrap,mysql,figma,docker,maven&theme=light)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertImKr&layout=compact)
 
