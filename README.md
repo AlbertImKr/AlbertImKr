@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&width=1000&lines=I'm+Albert!+I+loves+challenges+and+growth!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&width=1000&lines=%EC%A0%80%EB%8A%94+%EB%8F%84%EC%A0%84%EC%99%80+%EC%84%B1%EC%9E%A5%EC%9D%84+%EC%82%AC%EB%9E%91%ED%95%A9%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
-
 ## Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
