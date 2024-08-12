@@ -27,6 +27,7 @@
 
 [![Tistory](https://img.shields.io/badge/Blog-FF5544?style=for-the-badge&logo=tistory)](https://albertblog.tistory.com/)
 [![Study](https://img.shields.io/badge/Journal-blue?style=for-the-badge&label=Study)](https://study.albert-im.com/)
+[![Gitbook](https://img.shields.io/badge/old%20blog-grey?style=for-the-badge&logo=gitbook)](https://gitbook.albert-im.com/)
 
 ## GitHub Stats
 
