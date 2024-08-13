@@ -32,11 +32,12 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## Blog and Study
+## Connect & Explore
 
 [![Tistory](https://img.shields.io/badge/Blog-FF5544?style=for-the-badge&logo=tistory)](https://albertblog.tistory.com/)
 [![Study](https://img.shields.io/badge/Journal-blue?style=for-the-badge&label=Study)](https://study.albert-im.com/)
 [![Gitbook](https://img.shields.io/badge/old%20blog-grey?style=for-the-badge&logo=gitbook)](https://gitbook.albert-im.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/albertimkr/)
 
 ## GitHub Stats
 
