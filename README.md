@@ -1,6 +1,6 @@
 ## Hi 👋 안녕하세요 
 
-![greetings](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&width=1000&lines=I'm+Albert!+I+love+challenges+and+growth+%F0%9F%91%8A%F0%9F%91%8A)
+![greetings](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=650&lines=I'm+Albert!+I+love+challenges+and+growth+%F0%9F%91%8A%F0%9F%91%8A)
 
 ## Skills
 ### JVM Technologies (Core)
