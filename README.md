@@ -28,6 +28,9 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+### Code Wars
+![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=AlbertImKr)
+
 ## Connect & Explore
 
 [![Tistory](https://img.shields.io/badge/Blog-FF5544?style=for-the-badge&logo=tistory)](https://albertblog.tistory.com/)
